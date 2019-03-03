@@ -37,7 +37,6 @@ The main challenge was fixing the errors with the connections because whenever t
 ### App Walkthough GIF
 
 <img src="https://github.com/kc3585/Flix/blob/master/flix1.gif" width=250><br>
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ### Notes
 While building the app, there was a point where the NSException error kept on occurring due to the fact that multiple connections were made to different objects on the storyboard. Old connections were still alive when objects were deleted. This made it difficult to diagnose the problem.
