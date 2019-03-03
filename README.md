@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="Yhttps://github.com/kc3585/Flix/blob/master/flix2.gif" width=250><br>
+<img src="https://github.com/kc3585/Flix/blob/master/flix2.gif" width=250><br>
 
 ### Notes
 The main challenge was fixing the errors with the connections because whenever the superhero tab was clicked, NSException came up. This issue helped me dissolve the problem and find the root cause of the error.
